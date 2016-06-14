@@ -16,3 +16,7 @@ c.div("<numbers>") `
 For example, to add `1` and `2`, use:
 
 `c.add("1 2")`
+
+You can also use a "one line if statment".
+
+`c.test(condition, return_if_true, return_if_false)`
