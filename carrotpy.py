@@ -33,4 +33,11 @@ def div(s):
         if int(x) == x:
                 return int(x)
         else:
-                return x	
+                return x
+                
+def test(expr, a, b):
+	if expr:
+		return a
+	else:
+		return b
+
